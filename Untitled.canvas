@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e60e3c9c09b0b208","x":184,"y":390,"width":400,"height":400,"type":"file","file":"VygvfyvftvvtfvUntitled.md"},
+		{"id":"d9a144c96e7755a2","x":-160,"y":140,"width":250,"height":60,"type":"text","text":""},
+		{"id":"36e9966df8987d3e","x":204,"y":28,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"3cf583d5366d75ec","fromNode":"d9a144c96e7755a2","fromSide":"right","toNode":"36e9966df8987d3e","toSide":"left"},
+		{"id":"c623a23ba24a055b","fromNode":"36e9966df8987d3e","fromSide":"bottom","toNode":"e60e3c9c09b0b208","toSide":"top"}
+	]
+}
